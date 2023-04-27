@@ -1,1 +1,1 @@
-# aqa_lab2
+# Oleh Anishchenko
